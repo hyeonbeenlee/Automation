@@ -1,0 +1,297 @@
+Extended Kalman Filter for Real-Time, Full–Body Motion Capture and Driving Efforts Estimation (ID: 238)
+P´erez-Soto, Manuel; Lugr´ıs, Urbano; Sanjurjo, Emilio; Cuadrado, Javier . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+Numerical stability analysis of the conservative SLIP model with a Hill-type muscle (ID: 234)
+Patko, Dora; Zelei, Ambrus . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+Child Gait Predictive Dynamic Simulation (ID: 133)
+Ezati, Mahdokht; McPhee, John . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+Statistical Analysis of Performace Measures During Acceleration and Deceleration in Overground Running (ID: 247)
+Zajcsuk, Lili´ana; Zelei, Ambrus . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .21
+Efficient Walking Of A Discrete Simple Biped With a Torso (ID: 116)
+Gismelseed, Sarra Abbasher; Al Yahmedi, Amur Salim; Zaier, Riadh; Bait Bahadur, Issam; Al-Ouakad, Hassan . . . . . 23
+Use of a Multibody Model for Determination of the 3D Human Spine Posture from Wearable Inertial Sensors (ID: 123)
+Michaud, Florian; Lugr´ıs, Urbano; Cuadrado, Javier; Casta~no, David . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+A new method for feedback and feedforward decomposition of human postural control: application to single-leg Yoga postures (ID: 132)
+Menegaldo, Luciano L.; Pinto, Dafne P.; Moreira, Pedro S. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28
+Estimation of the Reaction Time During Balancing on Rolling Balance Board in the Frontal Plane (ID: 221)
+Molnar, Csenge A.; Insperger, Tamas . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 30
+Biomechanical Modeling and Examination of Effects of Ankle Sprain Orthoses (ID: 246)
+Reymundo, Pedro; Hakansson, Nils; Lankarani, Hamid . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32
+Kinematic Analysis of Planar Biomechanical Models using Mixed Coordinates (ID: 245)
+Roupa, Ivo; Gonc¸alves, S´ergio; Silva, Miguel Tavares . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 34
+Sars Covid19 main protease mutation analysis via a kinematic method (ID: 215)
+Chen, Xiyu; Leyendecker, Sigrid; van den Bedem, Henry . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 36
+Assisted Walking with Hybrid Orthosis Using Functional Electrical Stimulation (ID: 272)
+Peiret, Albert; Jane, Marcel; Pamies-Vila, Rosa; Font-Llagunes, Josep M . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 38
+Biomechanics of Swimmers: A Multibody Inverse Dynamics Approach (ID: 270)
+Sim~oes, Francisca; Sequeira, Mariana; Quental, Carlos; Ambrosio, Jorge; Vilas-Boas, Jo~ao Paulo . . . . . . . . . . . . . . . .40
+Forward Dynamic Simulations of the Temporomandibular Joint based on Subject-Specific Data (ID: 142)
+Guo, Jianqiao; Chen, Junpeng; Wang, Jing; Ren, Gexue; Tian, Qiang . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 42
+Long Term Simulation of Stem Cell Nucleus During Adipogenesis (ID: 147)
+Rabiei, Manoochehr; McColloch, Andrew; Cho, Michael; Bowling, Alan . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 44
+Analytical solutions of the electromechanical middle ear model with an implantable hearing device (ID: 195)
+Weremczuk, Andrzej; Rusinek, Rafal . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 46
+Control concepts for human motion control during balancing an inverted pendulum (ID: 208)
+Nagy, Dalma J.; Insperger, Tam´as . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .48
+Optimal control of a human driver in highly dynamic driving scenarios (ID: 188)
+Roller, Michael; Bj¨orkenstam, Staffan; D¨orlich, Vanessa; Harant, Monika; Leyendecker, Sigrid; Linn, Joachim . . . . . 50
+Optimization and Evaluation of Spinal Exoskeleton Design Concepts using Optimal Control (ID: 235)
+Harant, Monika; N¨af, Matthias Basil; Mombaur, Katja . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 52
+Towards Compliant Human-Exoskeleton Interactions Within Multibody Dynamics Simulations of Assisted Human Mo-tor Control (ID: 191)
+Inkol, Keaton A; McPhee, John . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 54
+Rehabilitation of Musculoskeletal Models Using Deep Reinforcement Learning (ID: 269)
+Madorell Batlle, Queralt; Peiret Gimenez, Albert; Font Llagunes, Josep Maria . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 56
+Estimation of Intervertebral Efforts via an EMG-driven Multibody Model of the Sorensen Test (ID: 126)
+Hinnekens, Simon; Detrembleur, Christine; Mahaudens, Philippe; Fisette, Paul . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 58
+Model-based Co-simulation of Non-smooth Mechanical Systems (ID: 256)
+Raoofian, Ali; Peiret, Albert; K¨ovecses, J´ozsef; Teichmann, Marek . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 61
+Further investigation on LuGre friction force model under normal load variation (ID: 225)
+Marques, Filipe; Woli´nski, Łukasz; Wojtyra, Marek; Flores, Paulo; Lankarani, Hamid M. . . . . . . . . . . . . . . . . . . . . . . . . 63
+Multibody fatigue assessment in industrial mechanisms considering wear in revolute joints (ID: 252)
+L´opez-Lombardero, Mario; Rem´ırez, Adri´an; Cabello, Mario; Cuadrado, Javier . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 65
+The Tippedisk: a minimal model for friction-induced inversion (ID: 113)
+Sailer, Simon; Eugster, Simon; Leine, Remco . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 67
+Do we need to impose constraints at acceleration level in the nonsmooth generalized-alpha method? (ID: 261)
+Cosimo, Alejandro; Cavalieri, Federico; Cardona, Alberto; Bruls, Olivier . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 69
+Planar Wrapping and Stretching of a Thick Strand on a Surface by Continuous Integration (ID: 183)
+M¨uller, Katharina; Kecskemethy, Andres . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 71
+Train Bogie Dynamics Modeling with an Emphasis on Contact Mechanics in a Multibody Model (ID: 262)
+Vermaut, Martijn; Bentefrit, Mohamed; Naets, Frank; Desmet, Wim . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 73
+Efficient impact simulation using the flexible natural coordinate formulation and pinball model (ID: 266)
+Peeters, Jari; Zapata, Luis; Vermaut, Martijn; Naets, Frank . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 75
+Long-term rolling motions of a basketball on the rim (ID: 241)
+Antali, M´at´e; Havas, Vince; St´ep´an, G´abor; Hogan, S. John . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 77
+Numerical Analysis of Contact-Impact Problems using Finite Element Method (ID: 124)
+Serf˝oz˝o, D´aniel; Pere, Bal´azs . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 79
+Port crane guidance dynamics analysed via the Multibody approach (ID: 214)
+Acosta Su~n´e, Ra¨ul; Fisette, Paul; Docquier, Nicolas . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 81
+A Nonsmooth Dynamics Perspective on State Observer Design for Mechanical Systems with Unilateral Constraints (ID:140)
+Preiswerk, Pascal V.; Leine, Remco I. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 83
+Non-smooth numerical solution for Coulomb friction and rolling resistance (ID: 267)
+Sanchez, Eliana; Cosimo, Alejandro; Cardona, Alberto; Bruls, Olivier; Cavalieri, Federico . . . . . . . . . . . . . . . . . . . . . . 85
+On the simulation of freewheels using the methods of non-smooth dynamics (ID: 217)
+Tasora, Alessandro; Mangoni, Dario; Robuschi, Nicolo . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 87
+Manufacturing tolerance optimization of circuit breaker mechanism using Multibody Dynamic simulation (ID: 259)
+Akhadkar, Narendra; Porwal, Gitesh . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 89
+3D LuGre model for multibody systems involving contacts with stick-slip (ID: 175)
+Colantonio, Lorenzo; Dehombreux, Pierre; Hajˇzman, Michal; Verlinden, Olivier . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 91
+An impact model of three-dimensional rigid rocking blocks (ID: 150)
+Varkonyi, Peter L.; Ther, Tamas . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 93
+Synchronous Contact/Impact Events Modelling With A Smooth-Based Approach (ID: 114)
+Gismeros Moreno, Ra´ul; Corral Abad, Eduardo; Meneses Alonso, Jes´us; G´omez Garc´ıa, Mar´ıa Jes´us; Castej´on Sisam´on, Cristina . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 95
+Demystifying the Mechanical and Numerical Concepts Underlying Multibody System Dynamics: Development of an International MOOC (ID: 194)
+Fisette, Paul; Hinnekens, Simon; Moreau, Emile; Raison, Maxime . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 98
+Validation of MBD-CFD Co-Simulation for Corrugating Machine (ID: 115)
+Arora, Rohit; Nakagawa, Atsushi; Takata, Tomoshige; Akaki, Tomohiro; Kanazawa, Hiroyuki . . . . . . . . . . . . . . . . . . . 100
+Development of a Cyber-Physical Test Bench for E-Powertrain Components (ID: 119)
+Rodr´ıguez Frade, Borja; Rodr´ıguez Gonz´alez, Antonio Joaqu´ın; Maceira Mu´ı~nos, Diego; Bottero, Francisco; Sanjurjo, Maron~o, Emilio; Lugr´ıs Armesto, Urbano; Naya Villaverde,Miguel A´ngel; Gonza´lez Varela, Francisco Javier; Cuadrado, Aranda, Francisco Javier . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 102
+An improved absolute coordinate formulation (ACF) for flexible multibody dynamics (ID: 134)
+Zw¨olfer, Andreas; Gerstmayr, Johannes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 105
+Computation of internal forces in beam elements with constraint torsional warping (ID: 218)
+Dwarshuis, Koen; Aarts, Ronald; Ellenbroek, Marcel; Brouwer, Dannis . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 107
+Modelling of dielectric elastomer actuated flexible multibody dynamics (ID: 135)
+Huang, Dengpeng; Leyendecker, Sigrid . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 109
+Sloshing Dynamics Estimation for Liquid-filled Containers under 2-Dimensional Excitation (ID: 274)
+Di Leva, Roberto; Carricato, Marco; Gattringer, Hubert; M¨uller, Andreas . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 111
+Eigenfrequency assignment to flexible-link multibody systems using Taylor expansion of a parametric modal model (ID:236)
+Belotti, Roberto; Palomba, Ilaria; Wehrle, Erich; Vidoni, Renato . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 113
+Satisfying floating frame constraints in an absolute interface coordinates floating frame formulation (ID: 197)
+Schilder, Jurnan; Ellenbroek, Marcel . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 115
+Flexible Multibody Dynamics and Sensitivity Analysis in the Design of a Morphing Leading Edge for High-Performance Sailplanes (ID: 203)
+Gufler, Veit; Wehrle, Erich; Achleitner, Johannes; Vidoni, Renato . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 117
+Simultaneous Space-Time Discretization for Controlling the Motion of Rigid Bodies Actuated Through Elastic Ropes (ID: 153)
+Str¨ohle, Timo; Betsch, Peter . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 119
+Multipoint Constraints for Interface Reduction in Flexible Multibody Systems (ID: 205)
+Cammarata, Alessandro; Sinatra, Rosario; Maddio, Pietro Davide . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 121
+Influence of the Flexibility of the Railway Locomotive Bogies Components on its Dynamics (ID: 273)
+Pagaimo, Jo~ao; Millan, Pedro; Costa, Jo~ao; Ambr´osio, Jorge . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 123
+Flexible Multibody Impact Simulations of Hierarchically Refined Isogeometric Models (ID: 131)
+R¨uckwald, Tobias; Held, Alexander; Seifried, Robert . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 125
+A toolkit of componets to design a soft gripper (ID: 186)
+Grube, Malte; Velichkova, Hristiana; Wieck, Jan Christian; Fiedler, Bodo; Seifried, Robert . . . . . . . . . . . . . . . . . . . . . . 127
+Adjoint optimisation of worm-like body locomotion (ID: 248)
+Munoz, Jose J; Bijalwan, Ashutosh . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 129
+Topology Optimization for Eigenfrequencies of a Flexible Multibody System (ID: 184)
+Sun, Jialiang; Tian, Qiang; Hu, Haiyan . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 131
+DYNAMIC ANALYSIS OF AN INTERNAL TURNING TOOL WITH ELASTIC FOUNDATION (WINKLER MODEL) (ID: 222)
+Alves da Silva, Wallyson Thomas; Rostamian, Rouben; Szilagyi, Attila . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 133
+Non-linear beam formulation with NURBS interpolation for the simulation of sliding contacts (ID: 181)
+Wasmer, Paul; Betsch, Peter . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 135
+Coupled multibody model of industrial robot with milling simulator for trajectory compensation (ID: 139)
+Dambly, Valentin; Huynh, Hoai Nam; Verlinden, Olivier; Riviere-Lorphevre, E´douard . . . . . . . . . . . . . . . . . . . . . . . . . . 137
+Tensorial deformation measures for the floating frame of reference formulation (ID: 159)
+Sonneville, Valentin; G´eradin, Michel . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .140
+Direct Sensitivity Analysis of Spatial Multibody Systems with Friction using Penalty Formulation (ID: 260)
+Verulkar, Adwait; Sandu, Corina; Dopico, Daniel; Sandu, Adrian . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 142
+An iterative procedure for dynamic integrity assessment (ID: 179)
+Habib, Giuseppe . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 144
+Hamiltonian-based Optimal Control of Multibody Systems in the Presence of Artificial Discontinuities (ID: 198)
+Pikuli´nski, Maciej; Malczyk, Paweł . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 146
+A system identification procedure for multibody system dynamics (ID: 146)
+Askari, Ehsan; Crevecoeur, Guillaume . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 148
+Sparse Identification of Open-Loop Multibody System Dynamics (ID: 276)
+Malczyk, Paweł; Fra¸czek, Janusz . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 150
+Cutting the knot: Critical features of Centrifugal Vibration Absorbers Modeling (ID: 165)
+Pennestri’, Ettore; Cera, Mattia; Valentini, Pier Paolo; Cirelli, Marco . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 152
+GENERIC-Based Integration of Constrained Dissipative Mechanical Systems (ID: 163)
+Valdes y Beck, Vanessa; Betsch, Peter . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 154
+On Modeling Joint Friction Forces in the Constrained Hamiltonian Formulation (ID: 193)
+Malczyk, Paweł; Wojtyra, Marek . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 156
+Efficient earthquake simulation of stiff and high DOF Bridge Expansion Joint models with Python (ID: 196)
+Tahedl, Michael; Borchsenius, Fredrik; Taras, Andreas . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 158
+Projection Continuation for Minimal Coordinate Set Dynamics of Constrained Systems (ID: 166)
+Zhou, Ping; Masarati, Pierangelo; Zanoni, Andrea . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 160
+The GGL Variational Principle for Constrained Mechanical Systems (ID: 125)
+Kinon, Philipp L.; Betsch, Peter . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 162
+Combined Inverse Dynamics and Constraint Force Analysis of Parallel Kinematic Machines (ID: 137)
+Gnad, Daniel; Gattringer, Hubert; M¨uller, Andreas . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 164
+Kane’s Equations for Nonholonomic Systems in Bond-Graph-Compatible Velocity and Momentum Forms (ID: 171)
+Phillips, James R.; Amirouche, Farid . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .166
+Cable-actuated soft finger modeling using an ALE approach (ID: 122)
+Devigne, Olivier; Cosimo, Alejandro; Br¨uls, Olivier . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 168
+Rotational Component and Translational Component in a Measured Velocity Data (ID: 141)
+Yoo, Wan Suk; Kim, Jae Yeon; Kim, Soo Jin . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 170
+An Efficient Algorithm for Solving Time Optimal Control Problems in Multibody Dynamics (ID: 118)
+Eichmeir, Philipp; Steiner, Wolfgang . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 172
+A Set of Generalized Coordinates and Their Influence on System Dynamics (ID: 112)
+Zhakatayev, Altay; Rogovchenko, Yuriy; P¨atzold, Matthias . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 175
+Effects for Reduction of Computational Effort in Multibody Dynamic Models – A Case Study (ID: 254)
+Sun, Chiyu; Shen, Huiping; Kecskemethy, Andres . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 177
+Optimal Design of Multibody Systems Using Independent Adjoint Variables (ID: 160)
+Macia¸g, Paweł Wojciech; Malczyk, Paweł; Fra¸czek, Janusz . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 179
+Quaternion Spline Interpolation for Suspension Kinematics and Dynamics (ID: 212)
+Houdek, V´aclav; Hajˇzman, Michal; Verlinden, Olivier . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 181
+Design Optimization of Quality Inspection Robots for Particle Accelerator Components (ID: 173)
+Gamper, Hannes; Luthi, Adrien; Gattringer, Hubert; Mueller, Andreas; Di Castro, Mario . . . . . . . . . . . . . . . . . . . . . . . 183
+Analytical port invertion for a flexible beam model in the Two-Input Two-Output Port approach (ID: 206)
+Finozzi, Antonio; Alazard, Daniel; Sanfedino, Francesco . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 185
+A compliant and redundantly actuated 2-DOF 3RRR PKM: Less is more (ID: 164)
+Berendsen, Dustin; Sridhar, Aditya; Aarts, Ronald . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 188
+Simulation of the Dynamics of the 3-CRS Parallel Robot with a Bond Graph Approach (ID: 192)
+Boudon, Benjamin; Malafosse, Pierre; Guigon, Louis; Margetts, Rebecca; Bouzgarrou, Chedli; Dang, Thu-Thuy; Bouton,
+Nicolas . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 190
+Motion Control of a Crane-like Manipulator Relying on the HTC Vive - Precision and Accuracy of the Pose Estimation (ID: 231)
+Zana, Roland Reginald; Zelei, Ambrus . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 192
+State estimation of a hydraulically driven multibody system using the unscented Kalman filter (ID: 189)
+Khadim, Qasim; Hag, Yashar Shabbouei; Jaiswal, Suraj; Matikainen, Marko K.; Mikkola, Aki; Handroos, Heikki . . . . . 194
+Synthesis of Trajectory of Underactuated Multibody System (ID: 244)
+Valasek, Michael . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 196
+Extending the admissible control-loop delay for the inverted pendulum subject to PDA feedback by detuning the delays (ID: 230)
+Balogh, Tamas; Varszegi, Balazs; Insperger, Tamas . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 198
+Robust motion planning for underactuated multibody systems through a variational approach (ID: 168)
+Boscariol, Paolo; Richiedei, Dario . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 200
+Uni-frequency 6 DOF Active Dynamic Absorber for Spatial Mechanisms (ID: 210)
+ˇ Sika, Zbynˇek; Krivoˇsej, Jan; Vyhl´ıdal, Tom´aˇs . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 202
+Synthesis of an Extended Kalman Filter for Cable-Driven Parallel Robots (ID: 199)
+Boschetti, Giovanni; Gonz´alez, Francisco; Piva, Giulio; Richiedei, Dario; Rodr´ıguez Frade, Borja; Trevisani, Alberto . . . . . 204
+Path tracking in cable suspended parallel robots through position-dependent Model Predictive Control with embedded integrator (ID: 201)
+Bettega, Jason; Richiedei, Dario; Trevisani, Alberto . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 206
+A Heuristic Sequencing Method for Time Optimal Tracking of Open and Closed Paths (ID: 138)
+Zauner, Christian; Gattringer, Hubert; M¨uller, Andreas; J¨orgl, Matthias . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 208
+Delayed control of an unstable chain of integrator: The relation between the system parameter and the admissible time delay (ID: 167)
+Kovacs, Balazs; Insperger, Tamas . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 210
+Reinforcement Learning Assisted Robotic Contact Tasks (ID: 265)
+Arbatani, Siamak; Kovecses, Jozsef; Teichmann, Marek . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 212
+Motion Capture Based Model Identification of the Humanoid Robot REEM-C using Static Poses (ID: 233)
+Aller, Felix; Harant, Monika; Mombaur, Katja . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 214
+High-Speed Trajectory Tracking on Robotic Arm by Learning the Dynamic Response of the PID Controller with a Neural Network (ID: 227)
+Toussaint, Baptiste; Raison, Maxime . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 216
+A Recursive Dynamics Algorithm for Soft Robotic Manipulators Made of Viscoelastic Material (ID: 257)
+Iwamura, Makoto; Hirata, Kento; Maeda, Yoshiki; Oto, Kyuji . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 218
+Mathematical Model and Control Simulation of Hexapod Robot Locomotion in Tripod Gait (ID: 152)
+Osman, Kreˇsimir . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 220
+Sensitivity analysis for thermohydrodynamic models: uncertainty analysis and parameter estimation (ID: 136)
+Puscas, Maria Adela; Fiorini, Camilla; Despr´es, Bruno . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 223
+On the Role of Adjoint Gradients in Time-Optimal Control Problems under Final Constraints (ID: 182)
+Lichtenecker, Daniel; Eichmeir, Philipp; Nachbagauer, Karin . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .225
+Discrete adjoint method for the sensitivity analysis of an augmented Lagrangian Index-3 formulation with projections (ID: 224)
+Lo´pez Varela, A´lvaro; Dopico Dopico, Daniel; Luaces Fernandez, Alberto . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 227
+Input optimization for flexible multibody systems using the Adjoint Variable Method and the Flexible Natural Coordinate Formulation (ID: 268)
+Vanpaemel, Simon; Naets, Frank; Desmet, Wim . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 229
+Shape optimization in time variant system through multibody dynamics analysis (ID: 155)
+Akeno, Koki; Arora, Rohit; Kanazawa, Hiroyuki . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 231
+Optimization of a three wheeled tilting vehicle. (ID: 249)
+Dopico Dopico, Daniel; Lo´pez Varela, A´lvaro; Luaces Ferna´ndez, Alberto . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 233
+A Gradient-Based Computation of Time Optimal Bang-Bang Controls (ID: 220)
+Eichmeir, Philipp; Nachbagauer, Karin; Steiner, Wolfgang . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 235
+Topology Optimization Procedure for Flexible Multibody Systems with Augmented Standard Input Data (ID: 154)
+Held, Alexander; R¨uckwald, Tobias . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .237
+On the Dynamics and Optimal Control of Constrained Mechanical Systems (ID: 130)
+Schneider, Simeon; Betsch, Peter . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 239
+Nonlinear Optimal Control of Underactuated Mechanical Systems (ID: 250)
+Bodor, B´alint; Bencsik, L´aszl´o . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 241
+Stability chart of a multiple spring-mass system subjected to delayed collocated control (ID: 178)
+Szaksz, Bence Mate; Stepan, Gabor . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 243
+Reduced Order Interface Modelling for Haptic Simulation and Interfacing (ID: 263)
+Kerr, Liam Peter; K¨ovecses, J´ozsef . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 246
+Rod-removal technique for flexible-rods in the framework of semi-recursive multibody formulation (ID: 128)
+Pan, Yongjun; Huang, Liming; Yu, Xinxin; Mikkola, Aki . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 248
+Enabling Artificial Intelligence Studies in Off-Road Mobility Through Physics-Based Simulation of Multi-Agent Scenarios (ID: 162)
+Young, Aaron; Benatti, Simone; Taves, Jay; Elmquist, Asher; Serban, Radu; Negrut, Dan . . . . . . . . . . . . . . . . . . . . . . . . 250
+Comparing Semi-recursive Multibody Formulations for Hydraulically Driven Mechanisms (ID: 177)
+Jaiswal, Suraj; Rahikainen, Jarkko; Khadim, Qasim; Sopanen, Jussi; Mikkola, Aki . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 252
+Assessment of Variable Step-Size Integration of Multibody Systems (ID: 172)
+Ruggiu, Maurizio; Gonz´alez, Francisco . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 254
+A One-Dimensional Model for Developable Flexible Elastic Strips with Isogeometric Discretisation (ID: 226)
+Bauer, Benjamin; Roller, Michael; Linn, Joachim; Simeon, Bernd . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 257
+Effective inelastic bending behavior of multi-wire cables using Finite Elements accounting for wire contact (ID: 144)
+Hawwash, Muhannad; D¨orlich, Vanessa; Linn, Joachim; M¨uller, Ralf; Keller, Roger . . . . . . . . . . . . . . . . . . . . . . . . . . . . 259
+Stability of coarse grid discretisations for dissipative systems: numerical experiments for a test problem (ID: 148)
+Tumiotto, Denise; Arnold, Martin . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 261
+Dynamics of Axially Moving Beams with Transported Discrete Masses and Contact (ID: 151)
+Ntarladima, Konstantina; Pieber, Michael; Gerstmayr, Johannes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 263
+A nonsmooth approach to frictionless beam-to-beam contact (ID: 145)
+Bosten, Armin; Cosimo, Alejandro; Linn, Joachim; Br¨uls, Olivier . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 265
+Tensegrity Based Spatial Serial Robots (ID: 219)
+Zavˇrel, Jan; Kaˇnka, Tom´aˇs; Halamka, Vojtˇech; Val´aˇsek, Michael; ˇ Sika, Zbynˇek . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 267
+Analysis of beam-to-beam contact using mortar method (ID: 143)
+Tomec, Jan; Jeleni´c, Gordan . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 269
+First steps in data based constitutive modelling of inelastic effects in composite cables using Preisach hysteresis operators (ID: 156)
+Manfredo, Davide; D¨orlich, Vanessa; Linn, Joachim; Arnold, Martin . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .271
+Nonlinear Cosserat rod statics using homogenized constitutive properties of multi-layered cross-sections (ID: 232)
+Stavole, Martina; Leyendecker, Sigrid . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 273
+Velocity based elements in the analysis post-critical behaviour of spatial frames (ID: 204)
+Kusuma Chandrashekhara, Sudhanva; Zupan, Dejan . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 275
+Modeling the rotary inertia of sheaves with the Arbitrary Lagrangian-Eulerian Modal approach (ID: 120)
+Escalona, Jose Luis; Mohammadi, Narges . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 277
+Optimized tensegrity structures for the usage in robotics (ID: 240)
+Hajˇzman, Michal; Bul´ın, Radek; Hrabaˇcka, Martin; Polach, Pavel; Byrtus, Miroslav . . . . . . . . . . . . . . . . . . . . . . . . . . . . 279
+Realistic parameters for dynamic simulation of composite cables using a damped Cosserat rod model (ID: 207)
+Jungkenn, Dominik; Schneider, Fabio; Andersson, Fredrik; Linn, Joachim . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 281
+On the modelling of flexible slender structures guided through narrow space (ID: 174)
+Bul´ın, Radek; Dyk, ˇ Stˇep´an; Hajˇzman, Michal . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 283
+Modeling of spiral strands using 1D finite strain beam model: role of frictional contact interactions in the bending behavior (ID: 190)
+Saadat, Mohammad Ali; Durville, Damien . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 285
+Simplified mechanical model for balancing a motorbike with steering at zero speed (ID: 229)
+Szab´o, Andr´as; Horv´ath, Hanna Zs.; Tak´acs, D´enes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 288
+Handling Evaluation of Tractor-semitrailer with Split Fifth Wheel Coupling Undergoing an ISO Double Lane Change Manoeuvre (ID: 251)
+Jogi, Ajith; Chandramohan, Sujatha; Dash, Sabyasachi . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .290
+Development of steering laws to assist the driving of a of a 4-wheel steering vehicle (ID: 223)
+Dambacher, Louis; Boudon, Benjamin; Bouton, Nicolas; Lot, Roberto; Lalande, Nicolas; Lenain, Roland . . . . . . . . 292
+Multibody Dynamic Approach to Risk Analysis of Autonomous Driving Test Scenario (ID: 255)
+Zhang, Sheng-peng; Choi, Ji-yoon; Won, Sung-hyuk; Heo, Dong-hoe; Tak, Tae-oh . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 294
+Modeling and Simulation of a High-speed Maglev Vehicle on an Infinite Elastic Guideway (ID: 161)
+Schneider, Georg; Schmid, Patrick; Dignath, Florian; Eberhard, Peter . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 296
+Analysis of the dynamic behavior of a counterbalance forklift truck through multibody modelling and simulation (ID:170)
+Pinelli, Marco; Giovannucci, Monica; Martini, Alberto . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 298
+Reversing a truck-full trailer combination in the presence of feedback delay (ID: 200)
+Mih´alyi, Levente; V¨or¨os, Ill´es; V´arszegi, Bal´azs; Tak´acs, D´enes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 300
+Flexible Multibody Dynamic Analysis for a 23-g Flapping Wing Micro Aerial Vehicle (ID: 185)
+Choi, JaeWon; Gong, DuHyun; Im, ByeongUk; Shin, SangJoon . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 302
+Numerical analysis of the linearization of the railway multibody equations of motion with moving reference frames (ID:127)
+Aceituno, Javier F.; Escalona, Jos´e L. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 304
+Influence of the Friction Model on the Dynamics of Railway Freight Vehicles (ID: 271)
+Millan, Pedro; Pagaimo, Jo~ao; Ambrosio, Jorge; Magalh~aes, Hugo; Antunes, Pedro . . . . . . . . . . . . . . . . . . . . . . . . . . . . 306
+Multi-Stage MBS and FE Simulation Strategy to Design a Safe Motorcycle (ID: 202)
+Maier, Steffen; Fehr, J¨org . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 308
+Optimization of flapping wing dynamics for Martian atmosphere via DMOC approach (ID: 275)
+Terze, Zdravko; Pandˇza, Viktor; Kasalo, Marko; Zlatar, Dario . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 310
+Adaptive techniques for Kalman filter estimation based on multibody models (ID: 209)
+Rodr´ıguez, Antonio J.; Sanjurjo, Emilio; Naya, Miguel A´ngel . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 312
+Survey of the Use of Multibody Simulations in the Development of Trolleybuses (ID: 187)
+Polach, Pavel; Hajˇzman, Michal . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 314
+Surface Error Correction of a Mesh Deployable Reflector (ID: 258)
+Maddio, Pietro Davide; Salvini, Pietro; Sinatra, Rosario; Cammarata, Alessandro . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 316
+Model Order Reduction for Elastic Multibody Systems with Fast Rotating Flexible Bodies (ID: 121)
+Frie, Lennart; Dieterich, Oliver; Eberhard, Peter . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 318
+
+

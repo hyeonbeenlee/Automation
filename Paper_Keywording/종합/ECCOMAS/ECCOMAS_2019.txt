@@ -1,0 +1,127 @@
+Investigation of Tympanic Membrane Influences on Middle-Ear Impedance Measurements and Simulation
+
+Anterior Cruciate Ligament Injuries Alter the Kinematics and Kinetics of Knees with or Without Meniscal Deficiency
+
+Investigation of Inhomogeneous Stiffness and Damping Characteristics of the Human Stapedial Annular Ligament
+
+Comparison of Measured EMG Data with Simulated Muscle Actuations of a Biomechanical Human Arm Model in an Optimal Control Framework – Direct Vs. Muscle Synergy Actuation
+
+A Detailed Kinematic Multibody Model of the Shoulder Complex After Total Shoulder Replacement
+
+Multibody Analysis of a 3D Human Model with Trunk Exoskeleton for Industrial Applications
+
+A Hill Muscle Actuated Arm Model with Dynamic Muscle Paths
+
+Optimal Control Simulations of Two-Finger Precision Grasps
+
+Reinforcement Learning Applied to a Human Arm Model
+
+Dynamic Modeling and Analysis of Pool Balls Interaction
+
+Dynamics of Machine-Process Combinations
+
+Modeling of Elastic Cages in the Rolling Bearing Multi-Body Tool CABA3D
+
+Analysis of the Influence of the Links’ Flexibility and Clearance Effects on the Dynamics of the RUSP Linkage
+
+Multibody Analysis and Design of an Electromechanical System Simulating Hyperelastic Membranes
+
+Haptic Simulation of Mechanisms
+
+Solution Techniques for Problems of Inverse Dynamics of Flexible Underactuated Systems
+
+Investigation of the Behavior of Vibration-Damped Flexible Link Robots in End-Effector Contact: Simulation and Experiment
+
+Possibilistic Investigation of Mechanical Control Systems Under Uncertainty
+
+Nonlinear Position Control of a Very Flexible Parallel Robot Manipulator 
+
+A Compliant and Redundantly Actuated 2-DOF 3RRR PKM: Best of Both Worlds?
+
+On the Modeling of Redundantly-Actuated Mechanical Systems
+
+An Individual Pitch Control Concept for Wind Turbines Based on Inertial Measurement Units
+
+Localized Helix Configurations of Discrete Cosserat Rods
+
+Importance of Warping in Beams with Narrow Rectangular Cross-Sections: An Analytical, Numerical and Experimental Flexible Cross-Hinge Case Study
+
+Robust and Fast Simulation of Flexible Flat Cables
+
+Dynamic Analysis of Compliant Mechanisms Using Absolute Nodal Coordinate Formulation and Geometrically Exact Beam Theory
+
+Dynamic Performance of Flexible Composite Structures with Dielectric Elastomer Actuators via Absolute Nodal Coordinate Formulation
+
+Approaches to Fibre Modelling in the Model of an Experimental Laboratory Mechanical System
+
+Body-Fluid-Structure Interaction Simulation for a Trailing-Edge Flexible Stabilizer
+
+Investigation of a Model Update Technique for Flexible Multibody Simulation
+
+Extension of the Iterative Improved Reduced System Technique to Flexible Mechanisms
+
+Updating of Finite Element Models for Controlled Multibody Flexible Systems Through Modal Analysis
+
+Modelling Rigid and Flexible Bodies with Truss Elements
+
+State Observation in Beam-Like Structures Under Unknown Excitation
+
+Dynamic Modelling of Lower Mobility Parallel Manipulators
+
+Mathematical Model of a Crane with Taking into Account Friction Phenomena in Actuators
+
+Closed Form of the Baker-Campbell-Hausdorff Formula for the Lie Algebra of Rigid Body Displacements
+
+Alternative Integration Schemes for Constrained Mechanical Systems
+
+Implementation of Linear Springs and Dampers in a Newmark Second Order Direct Integration Method for 2D Multibody Dynamics 
+
+On the Numerical Treatment of Nonlinear Flexible Multibody Systems with the Use of Quasi-Newton Methods
+
+Interior-Point Solver for Non-smooth Multi-Body Dynamics with Finite Elements
+
+A Fast Explicit Integrator for Numerical Simulation of Multibody System Dynamics
+
+The Discrete Hamiltonian-Based Adjoint Method for Some Optimization Problems in Multibody Dynamics
+
+Dynamic Parameters Optimization and Identification of a Parallel Robot
+
+Partial Shaking Force Balancing of 3-RRR Parallel Manipulators by Optimal Acceleration Control of the Total Center of Mass
+
+Energy Expenditure Minimization for a Delta-2 Robot Through a Mixed Approach
+
+Training a Four Legged Robot via Deep Reinforcement Learning and Multibody Simulation
+
+Two General Index-3 Semi-Recursive Formulations for the Dynamics of Multibody Systems
+
+Real-Time Capable Calculation of Reaction Forces of Multibody Systems Using Optimized Bushings on the Example of a Vehicle Wheel Suspension
+
+A Machine Learning Approach for Minimal Coordinate Multibody Simulation
+
+Efficient Particle Simulation Using a Two-Phase DEM-Lookup Approach
+
+DARTS - Multibody Modeling, Simulation and Analysis Software
+
+Optimization of Geometric Parameters and Stiffness of MultiUniversal-Joint Drive Shaft Considering the Dynamics of Driveline
+
+Application of Multibody Dynamics in the Modelling of a Limited-Slip Differential
+
+Lateral Dynamics of Vehicles on a “Steerable” Roller Test Stand
+
+Dynamic Interaction of Heavy Duty Vehicles and Expansion Joints
+
+A Study on the Behaviour of the Rotating Disk with the Damage on the Tread
+
+Multibody Dynamics Analysis of Railway Vehicle with Independently Rotating Wheels Using Negative Tread Conicity
+
+A Full-Vehicle Motion Simulator for Railways Applications
+
+Simulation of the Maglev Train Transrapid Traveling on a Flexible Guideway Using the Multibody Systems Approach
+
+Omni-Vehicle Dynamical Models Mutual Matching for Different Roller–Floor Contact Models
+
+Adjustment of Non-Holonomic Constraints by Absolutely Inelastic Tangent Impact in the Dynamics of an Omni-Vehicle
+
+Multibody Models and Simulations to Assess the Stability of Counterbalance Forklift Trucks
+
+Automatic Differentiation in Multibody Helicopter Simulation
